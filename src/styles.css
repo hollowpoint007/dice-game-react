@@ -1,0 +1,13 @@
+.game {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .player {
+    margin: 20px;
+  }
+  
+  .dice {
+    font-size: 2em;
+    margin-top: 10px;
+  }
